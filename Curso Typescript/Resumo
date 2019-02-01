@@ -1,0 +1,10 @@
+tsc -w -> compila automaticamente
+let i:number -> define o i somente para dentro da função em que ele está
+_Variável -> somente quando for privado
+namespace nomearquivo {
+	...	
+	código			-> serve para deixar usar os mesmos nomes em diferentes arquivos
+
+	....
+}
+

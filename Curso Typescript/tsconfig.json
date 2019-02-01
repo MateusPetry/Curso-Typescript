@@ -1,0 +1,15 @@
+{
+    "compilerOptions":{
+       "module": "commonjs",
+       "target":"es6",
+       "sourceMap": true,
+       "experimentalDecorators": true,
+       "emitDecoratorMetadata": true
+       //"strictNullChecks": true,   quando ativado, não deixa associar valor undefined ou null para variáveis 
+        //"noImplicitThis":true  //quando ativado, mostra o erro quando this estiver referenciado errado
+        
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
